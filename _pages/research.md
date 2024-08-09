@@ -17,6 +17,6 @@ I collect data through a variety of methods:
 
 # Languages
 
-To understand cross-linguistic variation and how different processes unfold in language communication, it is vital to study languages beyond English. For this reason, I am also interested in comparing how these processes occur during laanguage communication in Greek and Chienese neurotypical and neurodiverse (mainly autistic) populations.
+To understand cross-linguistic variation and how different processes unfold in language communication, it is vital to study languages beyond English. For this reason, I am also interested in comparing how these processes occur during laanguage communication in Greek and Chinese neurotypical and neurodiverse (mainly autistic) populations.
 
 # Current Research Areas
