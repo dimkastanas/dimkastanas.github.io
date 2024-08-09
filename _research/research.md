@@ -1,0 +1,1 @@
+I am a PhD student in Theoretical and Applied Linguistics at the University of Cambridge. My research interests currently lie in natural language meaning, including both semantics and pragmatics, and the processes that allow interlocutors to coordinate with one another
