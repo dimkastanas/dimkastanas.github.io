@@ -13,8 +13,8 @@ My research interests focus on natural language meaning in neurotypical and neur
 
 I firmly believe that collaboration leads to the best outcomes. Below are a few of my own mentors and collaborators:
 
-Napoleon Katsos (Cambridge)
-Suyun Xu (Shanghai)
-Songqiao Xie (Cambridge)
-Jessica Fleck (Cambridge)
-Yizhuo Zhang (Cambridge)
+- Napoleon Katsos (Cambridge)
+- Suyun Xu (Shanghai)
+- Songqiao Xie (Cambridge)
+- Jessica Fleck (Cambridge)
+- Yizhuo Zhang (Cambridge)
