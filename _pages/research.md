@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: archive
 title: "Research"
 permalink: /research/
+author profile: true
 ---
 
 # Research
