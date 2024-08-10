@@ -4,7 +4,8 @@ main:
     url: /research/
 
   - title: "CV"
-    url: /cv/
+    #url: /cv/
+    url: files/CV_09_08_24.pdf
 
   - title: "Publications"
     url: /publications/
