@@ -17,7 +17,7 @@ I collect data through a variety of methods:
 
 # Languages
 
-To understand cross-linguistic variation and how different processes unfold in language communication, it is vital to study languages beyond English. For this reason, I am also interested in comparing how pragmatic reasoning, perspesctive-taking and informativeness occur during language communication in Greek and Chinese neurotypical and neurodiverse (mainly autistic) populations.
+To understand cross-linguistic variation and how different processes unfold in language communication, it is vital to study languages beyond English. For this reason, I am also interested in comparing how pragmatic reasoning, perspesctive-taking and informativeness interact during language communication in Greek and Chinese neurotypical and neurodiverse (mainly autistic) populations.
 
 # Current Research Areas
 
