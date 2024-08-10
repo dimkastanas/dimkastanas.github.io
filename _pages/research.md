@@ -17,13 +17,13 @@ I collect data through a variety of methods:
 
 # Languages
 
-To understand cross-linguistic variation and how different processes unfold in language communication, it is vital to study languages beyond English. For this reason, I am also interested in comparing how pragmatic reasoning, perspesctive-taking and informativeness interact during language communication in Greek and Chinese neurotypical and neurodiverse (mainly autistic) populations.
+To understand cross-linguistic variation and how different processes unfold in language communication, it is vital to study languages beyond English. For this reason, my research also compares how pragmatic reasoning, perspective-taking and informativeness interact during language communication in English, Greek, and Chinese, focusing on both neurotypical and neurodiverse (primarily autistic) populations.
 
 # Current Research Areas
 
 ## Ad Hoc Implicatures
 
-When a speaker says, "Give me the bag with apples" and there are two bags -one with apples and another one with apples and oranges- you understand that they want the bag containing only apples. This interpretation is derived from an ad hoc implicature using visual context. However, if the same expression is used and there is only a bag with apples and oranges, you understand that they want this bag. In both instances, arriving at the correct interpretation requires pragmatic reasoning. My research explores the cognitive processes behind this type of pragmatic reasoning in both English and Chinese neurotypical and autistic listeners. Furthermore, I investigate the types of utterances naive speakers would produce in comparable communicative situations.
+When a speaker says "Give me the bag with apples", and there are two bags—one with only apples and another with apples and oranges—the listener understands that the speaker wants the bag containing only apples. The listener reaches this interpretation by deriving an ad hoc implicature using the visual context. However, if the same expression is used when there is only a bag with apples and oranges, the listener needs to understand that the speaker is referring to this bag. In both instances, arriving at the correct interpretation requires pragmatic reasoning. My research explores the cognitive processes behind this type of pragmatic reasoning cross-linguistically in both neurotypical and autistic speakers and listeners.
 
 ## Visual Perspective Taking
 
