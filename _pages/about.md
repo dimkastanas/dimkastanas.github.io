@@ -14,7 +14,7 @@ My research interests focus on natural language meaning in neurotypical and neur
 I firmly believe that collaboration leads to the best outcomes. Below is a list of some of my mentors and collaborators to date:
 
 - Napoleon Katsos (Cambridge)
-- Robert Hawkins (Winsconsin)
+- Robert Hawkins (Stanford)
 - Alexandre Cremers (Vilnius)
 - Guanyi Chen (Wuhan)
 - Kees van Deeemter (Utrecht)
