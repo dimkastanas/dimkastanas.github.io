@@ -13,6 +13,9 @@ AMLAP 2024. [poster]
 Kastanas, D., Katsos, N.. Put yourself in someone’s else’s shoes: the case for autistic and neurotypical speakers.
 Wolfson College Research Event 2024. [poster]
 
+Kastanas, D., Katsos, N. Towards a re-evaluation of egocentric behaviour in perspective-taking; the role of stimuli
+selection. Language Sciences Annual Symposium 2024. [poster]
+
 ## Talks
 
 2024 University College London, Experimental Pragmatics Workshop.
