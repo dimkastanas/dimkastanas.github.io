@@ -6,3 +6,5 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
+[Download my CV as a PDF](/files/cv.pdf)
