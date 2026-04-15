@@ -6,6 +6,12 @@ author_profile: true
 ---
 
 ## Proceeding Papers
+Kastanas, D. & Katsos, N. Semantic Properties Take Priority Over Function Words in Referential Communication. International Conference in Greek Linguistics (ICGL 17). [talk]
+
+Kastanas, D., Hawkins, R. & Katsos, N.. A Bayesian Perspective on Pragmatic Communication in Autism. 11th Biennial Experimental Pragmatics Conference (XPRAG 2025). [poster]
+
+Kastanas, D., Hawkins, R. & Katsos, N.. When Do Speakers Make Implicit Meanings Explicit in Referential Communication: The Critical Role of Uncertainty Introduced by Visual Access, Competitors and Alternatives. 11th Biennial Experimental Pragmatics Conference (XPRAG 2025). [poster]
+
 Kastanas, D., Katsos, N.. The effect of uncertainty on speakers’ referential expressions and use of implicit meaning.
 AMLAP 2024. [poster]
 
@@ -16,6 +22,8 @@ Kastanas, D., Katsos, N. Towards a re-evaluation of egocentric behaviour in pers
 selection. Language Sciences Annual Symposium 2024. [poster]
 
 ## Talks
+2025 University of Cambridge, Experimental Pragmatics Workshop
+
 2025 Language Abilities in Children with Autism (LACA), online.
 
 2024 University College London, Experimental Pragmatics Workshop.
