@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ## Proceeding Papers
-
 Kastanas, D., Katsos, N.. The effect of uncertainty on speakers’ referential expressions and use of implicit meaning.
 AMLAP 2024. [poster]
 
@@ -17,6 +16,7 @@ Kastanas, D., Katsos, N. Towards a re-evaluation of egocentric behaviour in pers
 selection. Language Sciences Annual Symposium 2024. [poster]
 
 ## Talks
+2025 Language Abilities in Children with Autism (LACA), online.
 
 2024 University College London, Experimental Pragmatics Workshop.
 
