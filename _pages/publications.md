@@ -22,10 +22,14 @@ Kastanas, D., Katsos, N. Towards a re-evaluation of egocentric behaviour in pers
 selection. Language Sciences Annual Symposium 2024. [poster]
 
 ## Talks
-2025 University of Cambridge, Experimental Pragmatics Workshop
+**Referential communication in Autistic adults: the case of visual access, implied meanings and semantic properties**  
+Talk presented at the University of Cambridge, Experimental Pragmatics Workshop, 2025.
 
-2025 Language Abilities in Children with Autism (LACA), online.
+**A novel task for testing explicit and implicit meanings in referential communication: evidence from autistic adults**
+Language Abilities in Children with Autism (LACA), 2025.
 
-2024 University College London, Experimental Pragmatics Workshop.
+**Referential and pragmatic communication in autistic adults: is perspective-taking really the problem?**  
+Talk presented at the University College London, Experimental Pragmatics Workshop, 2024.
 
-2024 Cambridge Processing and Acquisition of Language Laboratory, University of Cambridge.
+**Resolving referential ambiguity: visual access and competing semantic properties**  
+Talk presented at the Cambridge Processing and Acquisition of Language Laboratory (CAMPAL), University of Cambridge, 2024.
